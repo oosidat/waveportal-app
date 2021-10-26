@@ -34,3 +34,12 @@
   border-radius: 5px;
   width: 50%;
 }
+
+.buttonContent {
+  display: flex;
+  justify-content: center;
+}
+
+.buttonText {
+    margin: auto 5px;
+  }
