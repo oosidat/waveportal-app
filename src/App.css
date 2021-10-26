@@ -14,21 +14,23 @@
 
 .header {
   text-align: center;
-  font-size: 32px;
-  font-weight: 600;
+  font-weight: 800;
 }
 
 .bio {
+  font-size: 18px;
   text-align: center;
   color: gray;
   margin-top: 16px;
+  font-weight: 300;
 }
 
 .waveButton {
   cursor: pointer;
+  margin: auto;
   margin-top: 16px;
   padding: 8px;
   border: 0;
   border-radius: 5px;
-  
+  width: 50%;
 }
